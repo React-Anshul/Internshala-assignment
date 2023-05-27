@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfarms_server=self.webpackChunkfarms_server||[]).push([[0],{8746:function(e,r,n){n.r(r);n(2791);var t=n(184);r.default=function(){return(0,t.jsx)("div",{style:{color:"#fff",textAlign:"center",marginTop:"15rem",fontSize:"50px"},children:"Data Is Not Found"})}}}]);
+//# sourceMappingURL=0.015768e2.chunk.js.map

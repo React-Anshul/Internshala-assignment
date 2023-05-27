@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Internshala-assignment/static/css/main.a79e8eff.css",
+    "main.js": "/Internshala-assignment/static/js/main.f85f93a4.js",
+    "static/js/889.b0bb1680.chunk.js": "/Internshala-assignment/static/js/889.b0bb1680.chunk.js",
+    "static/js/0.015768e2.chunk.js": "/Internshala-assignment/static/js/0.015768e2.chunk.js",
+    "static/js/863.43802e3b.chunk.js": "/Internshala-assignment/static/js/863.43802e3b.chunk.js",
+    "index.html": "/Internshala-assignment/index.html",
+    "main.a79e8eff.css.map": "/Internshala-assignment/static/css/main.a79e8eff.css.map",
+    "main.f85f93a4.js.map": "/Internshala-assignment/static/js/main.f85f93a4.js.map",
+    "889.b0bb1680.chunk.js.map": "/Internshala-assignment/static/js/889.b0bb1680.chunk.js.map",
+    "0.015768e2.chunk.js.map": "/Internshala-assignment/static/js/0.015768e2.chunk.js.map",
+    "863.43802e3b.chunk.js.map": "/Internshala-assignment/static/js/863.43802e3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a79e8eff.css",
+    "static/js/main.f85f93a4.js"
+  ]
+}
